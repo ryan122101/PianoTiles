@@ -31,7 +31,8 @@ export class ResultsScene implements Scene {
       </div>`;
       const starsEl = document.getElementById('stars');
       if (starsEl) { starsEl.textContent = '★'.repeat(stars) + '☆'.repeat(3-stars); }
-      // Unlock themes
+      // Unlock themes (wrap in async IIFE to use await safely)
+      (async () => { 
       try {
         const {Store} = await import('../ui/store');
         const unlocks = Store.get<Record<string,boolean>>('unlocks', {});
@@ -39,7 +40,7 @@ export class ResultsScene implements Scene {
         if (stars>=3 || combo>=120) unlocks['theme_obsidian'] = true;
         Store.set('unlocks', unlocks);
       } catch {}
-
+    })();
     document.getElementById('retry')?.addEventListener('click', () => {
       this.router.goto('play', this.data.replayArgs || {});
     });
