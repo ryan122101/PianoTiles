@@ -1,0 +1,456 @@
+{
+  "title": "Clair de Lune",
+  "bpm": 72,
+  "timeSignature": "3/4",
+  "offsetMs": 0,
+  "notes": [
+    {
+      "t": 0,
+      "lane": 2,
+      "dur": 0,
+      "type": "tap",
+      "midi": 64
+    },
+    {
+      "t": 417,
+      "lane": 3,
+      "dur": 0,
+      "type": "tap",
+      "midi": 67
+    },
+    {
+      "t": 833,
+      "lane": 4,
+      "dur": 0,
+      "type": "tap",
+      "midi": 69
+    },
+    {
+      "t": 1250,
+      "lane": 3,
+      "dur": 0,
+      "type": "tap",
+      "midi": 67
+    },
+    {
+      "t": 1667,
+      "lane": 2,
+      "dur": 0,
+      "type": "tap",
+      "midi": 64
+    },
+    {
+      "t": 2083,
+      "lane": 3,
+      "dur": 0,
+      "type": "tap",
+      "midi": 67
+    },
+    {
+      "t": 2500,
+      "lane": 4,
+      "dur": 0,
+      "type": "tap",
+      "midi": 69
+    },
+    {
+      "t": 2917,
+      "lane": 3,
+      "dur": 0,
+      "type": "tap",
+      "midi": 67
+    },
+    {
+      "t": 3333,
+      "lane": 2,
+      "dur": 0,
+      "type": "tap",
+      "midi": 64
+    },
+    {
+      "t": 3750,
+      "lane": 3,
+      "dur": 0,
+      "type": "tap",
+      "midi": 67
+    },
+    {
+      "t": 4167,
+      "lane": 4,
+      "dur": 0,
+      "type": "tap",
+      "midi": 69
+    },
+    {
+      "t": 4583,
+      "lane": 3,
+      "dur": 0,
+      "type": "tap",
+      "midi": 67
+    },
+    {
+      "t": 5000,
+      "lane": 2,
+      "dur": 0,
+      "type": "tap",
+      "midi": 64
+    },
+    {
+      "t": 5417,
+      "lane": 3,
+      "dur": 0,
+      "type": "tap",
+      "midi": 67
+    },
+    {
+      "t": 5833,
+      "lane": 4,
+      "dur": 0,
+      "type": "tap",
+      "midi": 69
+    },
+    {
+      "t": 6250,
+      "lane": 3,
+      "dur": 0,
+      "type": "tap",
+      "midi": 67
+    },
+    {
+      "t": 6667,
+      "lane": 2,
+      "dur": 0,
+      "type": "tap",
+      "midi": 64
+    },
+    {
+      "t": 7083,
+      "lane": 3,
+      "dur": 0,
+      "type": "tap",
+      "midi": 67
+    },
+    {
+      "t": 7500,
+      "lane": 4,
+      "dur": 0,
+      "type": "tap",
+      "midi": 69
+    },
+    {
+      "t": 7917,
+      "lane": 3,
+      "dur": 0,
+      "type": "tap",
+      "midi": 67
+    },
+    {
+      "t": 8333,
+      "lane": 2,
+      "dur": 0,
+      "type": "tap",
+      "midi": 64
+    },
+    {
+      "t": 8750,
+      "lane": 3,
+      "dur": 0,
+      "type": "tap",
+      "midi": 67
+    },
+    {
+      "t": 9167,
+      "lane": 4,
+      "dur": 0,
+      "type": "tap",
+      "midi": 69
+    },
+    {
+      "t": 9583,
+      "lane": 3,
+      "dur": 0,
+      "type": "tap",
+      "midi": 67
+    },
+    {
+      "t": 10000,
+      "lane": 2,
+      "dur": 0,
+      "type": "tap",
+      "midi": 64
+    },
+    {
+      "t": 10417,
+      "lane": 3,
+      "dur": 0,
+      "type": "tap",
+      "midi": 67
+    },
+    {
+      "t": 10833,
+      "lane": 4,
+      "dur": 0,
+      "type": "tap",
+      "midi": 69
+    },
+    {
+      "t": 11250,
+      "lane": 3,
+      "dur": 0,
+      "type": "tap",
+      "midi": 67
+    },
+    {
+      "t": 11667,
+      "lane": 2,
+      "dur": 0,
+      "type": "tap",
+      "midi": 64
+    },
+    {
+      "t": 12083,
+      "lane": 3,
+      "dur": 0,
+      "type": "tap",
+      "midi": 67
+    },
+    {
+      "t": 12500,
+      "lane": 4,
+      "dur": 0,
+      "type": "tap",
+      "midi": 69
+    },
+    {
+      "t": 12917,
+      "lane": 3,
+      "dur": 0,
+      "type": "tap",
+      "midi": 67
+    },
+    {
+      "t": 13333,
+      "lane": 2,
+      "dur": 0,
+      "type": "tap",
+      "midi": 64
+    },
+    {
+      "t": 13750,
+      "lane": 3,
+      "dur": 0,
+      "type": "tap",
+      "midi": 67
+    },
+    {
+      "t": 14167,
+      "lane": 4,
+      "dur": 0,
+      "type": "tap",
+      "midi": 69
+    },
+    {
+      "t": 14583,
+      "lane": 3,
+      "dur": 0,
+      "type": "tap",
+      "midi": 67
+    },
+    {
+      "t": 15000,
+      "lane": 2,
+      "dur": 0,
+      "type": "tap",
+      "midi": 64
+    },
+    {
+      "t": 15417,
+      "lane": 3,
+      "dur": 0,
+      "type": "tap",
+      "midi": 67
+    },
+    {
+      "t": 15833,
+      "lane": 4,
+      "dur": 0,
+      "type": "tap",
+      "midi": 69
+    },
+    {
+      "t": 16250,
+      "lane": 3,
+      "dur": 0,
+      "type": "tap",
+      "midi": 67
+    },
+    {
+      "t": 16667,
+      "lane": 2,
+      "dur": 0,
+      "type": "tap",
+      "midi": 64
+    },
+    {
+      "t": 17083,
+      "lane": 3,
+      "dur": 0,
+      "type": "tap",
+      "midi": 67
+    },
+    {
+      "t": 17500,
+      "lane": 4,
+      "dur": 0,
+      "type": "tap",
+      "midi": 69
+    },
+    {
+      "t": 17917,
+      "lane": 3,
+      "dur": 0,
+      "type": "tap",
+      "midi": 67
+    },
+    {
+      "t": 18333,
+      "lane": 2,
+      "dur": 0,
+      "type": "tap",
+      "midi": 64
+    },
+    {
+      "t": 18750,
+      "lane": 3,
+      "dur": 0,
+      "type": "tap",
+      "midi": 67
+    },
+    {
+      "t": 19167,
+      "lane": 4,
+      "dur": 0,
+      "type": "tap",
+      "midi": 69
+    },
+    {
+      "t": 19583,
+      "lane": 3,
+      "dur": 0,
+      "type": "tap",
+      "midi": 67
+    },
+    {
+      "t": 20000,
+      "lane": 2,
+      "dur": 0,
+      "type": "tap",
+      "midi": 64
+    },
+    {
+      "t": 20417,
+      "lane": 3,
+      "dur": 0,
+      "type": "tap",
+      "midi": 67
+    },
+    {
+      "t": 20833,
+      "lane": 4,
+      "dur": 0,
+      "type": "tap",
+      "midi": 69
+    },
+    {
+      "t": 21250,
+      "lane": 3,
+      "dur": 0,
+      "type": "tap",
+      "midi": 67
+    },
+    {
+      "t": 21667,
+      "lane": 2,
+      "dur": 0,
+      "type": "tap",
+      "midi": 64
+    },
+    {
+      "t": 22083,
+      "lane": 3,
+      "dur": 0,
+      "type": "tap",
+      "midi": 67
+    },
+    {
+      "t": 22500,
+      "lane": 4,
+      "dur": 0,
+      "type": "tap",
+      "midi": 69
+    },
+    {
+      "t": 22917,
+      "lane": 3,
+      "dur": 0,
+      "type": "tap",
+      "midi": 67
+    },
+    {
+      "t": 23333,
+      "lane": 2,
+      "dur": 0,
+      "type": "tap",
+      "midi": 64
+    },
+    {
+      "t": 23750,
+      "lane": 3,
+      "dur": 0,
+      "type": "tap",
+      "midi": 67
+    },
+    {
+      "t": 24167,
+      "lane": 4,
+      "dur": 0,
+      "type": "tap",
+      "midi": 69
+    },
+    {
+      "t": 24583,
+      "lane": 3,
+      "dur": 0,
+      "type": "tap",
+      "midi": 67
+    },
+    {
+      "t": 25000,
+      "lane": 2,
+      "dur": 0,
+      "type": "tap",
+      "midi": 64
+    },
+    {
+      "t": 25417,
+      "lane": 3,
+      "dur": 0,
+      "type": "tap",
+      "midi": 67
+    },
+    {
+      "t": 25833,
+      "lane": 4,
+      "dur": 0,
+      "type": "tap",
+      "midi": 69
+    },
+    {
+      "t": 26250,
+      "lane": 3,
+      "dur": 0,
+      "type": "tap",
+      "midi": 67
+    }
+  ]
+}

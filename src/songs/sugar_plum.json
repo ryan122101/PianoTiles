@@ -1,0 +1,456 @@
+{
+  "title": "Dance of the Sugar Plum Fairy",
+  "bpm": 110,
+  "timeSignature": "2/4",
+  "offsetMs": 0,
+  "notes": [
+    {
+      "t": 0,
+      "lane": 3,
+      "dur": 0,
+      "type": "tap",
+      "midi": 76
+    },
+    {
+      "t": 273,
+      "lane": 2,
+      "dur": 0,
+      "type": "tap",
+      "midi": 73
+    },
+    {
+      "t": 545,
+      "lane": 3,
+      "dur": 0,
+      "type": "tap",
+      "midi": 76
+    },
+    {
+      "t": 818,
+      "lane": 4,
+      "dur": 0,
+      "type": "tap",
+      "midi": 79
+    },
+    {
+      "t": 1091,
+      "lane": 3,
+      "dur": 0,
+      "type": "tap",
+      "midi": 76
+    },
+    {
+      "t": 1364,
+      "lane": 2,
+      "dur": 0,
+      "type": "tap",
+      "midi": 73
+    },
+    {
+      "t": 1636,
+      "lane": 3,
+      "dur": 0,
+      "type": "tap",
+      "midi": 76
+    },
+    {
+      "t": 1909,
+      "lane": 4,
+      "dur": 0,
+      "type": "tap",
+      "midi": 79
+    },
+    {
+      "t": 2182,
+      "lane": 3,
+      "dur": 0,
+      "type": "tap",
+      "midi": 76
+    },
+    {
+      "t": 2455,
+      "lane": 2,
+      "dur": 0,
+      "type": "tap",
+      "midi": 73
+    },
+    {
+      "t": 2727,
+      "lane": 3,
+      "dur": 0,
+      "type": "tap",
+      "midi": 76
+    },
+    {
+      "t": 3000,
+      "lane": 4,
+      "dur": 0,
+      "type": "tap",
+      "midi": 79
+    },
+    {
+      "t": 3273,
+      "lane": 3,
+      "dur": 0,
+      "type": "tap",
+      "midi": 76
+    },
+    {
+      "t": 3545,
+      "lane": 2,
+      "dur": 0,
+      "type": "tap",
+      "midi": 73
+    },
+    {
+      "t": 3818,
+      "lane": 3,
+      "dur": 0,
+      "type": "tap",
+      "midi": 76
+    },
+    {
+      "t": 4091,
+      "lane": 4,
+      "dur": 0,
+      "type": "tap",
+      "midi": 79
+    },
+    {
+      "t": 4364,
+      "lane": 3,
+      "dur": 0,
+      "type": "tap",
+      "midi": 76
+    },
+    {
+      "t": 4636,
+      "lane": 2,
+      "dur": 0,
+      "type": "tap",
+      "midi": 73
+    },
+    {
+      "t": 4909,
+      "lane": 3,
+      "dur": 0,
+      "type": "tap",
+      "midi": 76
+    },
+    {
+      "t": 5182,
+      "lane": 4,
+      "dur": 0,
+      "type": "tap",
+      "midi": 79
+    },
+    {
+      "t": 5455,
+      "lane": 3,
+      "dur": 0,
+      "type": "tap",
+      "midi": 76
+    },
+    {
+      "t": 5727,
+      "lane": 2,
+      "dur": 0,
+      "type": "tap",
+      "midi": 73
+    },
+    {
+      "t": 6000,
+      "lane": 3,
+      "dur": 0,
+      "type": "tap",
+      "midi": 76
+    },
+    {
+      "t": 6273,
+      "lane": 4,
+      "dur": 0,
+      "type": "tap",
+      "midi": 79
+    },
+    {
+      "t": 6545,
+      "lane": 3,
+      "dur": 0,
+      "type": "tap",
+      "midi": 76
+    },
+    {
+      "t": 6818,
+      "lane": 2,
+      "dur": 0,
+      "type": "tap",
+      "midi": 73
+    },
+    {
+      "t": 7091,
+      "lane": 3,
+      "dur": 0,
+      "type": "tap",
+      "midi": 76
+    },
+    {
+      "t": 7364,
+      "lane": 4,
+      "dur": 0,
+      "type": "tap",
+      "midi": 79
+    },
+    {
+      "t": 7636,
+      "lane": 3,
+      "dur": 0,
+      "type": "tap",
+      "midi": 76
+    },
+    {
+      "t": 7909,
+      "lane": 2,
+      "dur": 0,
+      "type": "tap",
+      "midi": 73
+    },
+    {
+      "t": 8182,
+      "lane": 3,
+      "dur": 0,
+      "type": "tap",
+      "midi": 76
+    },
+    {
+      "t": 8455,
+      "lane": 4,
+      "dur": 0,
+      "type": "tap",
+      "midi": 79
+    },
+    {
+      "t": 8727,
+      "lane": 3,
+      "dur": 0,
+      "type": "tap",
+      "midi": 76
+    },
+    {
+      "t": 9000,
+      "lane": 2,
+      "dur": 0,
+      "type": "tap",
+      "midi": 73
+    },
+    {
+      "t": 9273,
+      "lane": 3,
+      "dur": 0,
+      "type": "tap",
+      "midi": 76
+    },
+    {
+      "t": 9545,
+      "lane": 4,
+      "dur": 0,
+      "type": "tap",
+      "midi": 79
+    },
+    {
+      "t": 9818,
+      "lane": 3,
+      "dur": 0,
+      "type": "tap",
+      "midi": 76
+    },
+    {
+      "t": 10091,
+      "lane": 2,
+      "dur": 0,
+      "type": "tap",
+      "midi": 73
+    },
+    {
+      "t": 10364,
+      "lane": 3,
+      "dur": 0,
+      "type": "tap",
+      "midi": 76
+    },
+    {
+      "t": 10636,
+      "lane": 4,
+      "dur": 0,
+      "type": "tap",
+      "midi": 79
+    },
+    {
+      "t": 10909,
+      "lane": 3,
+      "dur": 0,
+      "type": "tap",
+      "midi": 76
+    },
+    {
+      "t": 11182,
+      "lane": 2,
+      "dur": 0,
+      "type": "tap",
+      "midi": 73
+    },
+    {
+      "t": 11455,
+      "lane": 3,
+      "dur": 0,
+      "type": "tap",
+      "midi": 76
+    },
+    {
+      "t": 11727,
+      "lane": 4,
+      "dur": 0,
+      "type": "tap",
+      "midi": 79
+    },
+    {
+      "t": 12000,
+      "lane": 3,
+      "dur": 0,
+      "type": "tap",
+      "midi": 76
+    },
+    {
+      "t": 12273,
+      "lane": 2,
+      "dur": 0,
+      "type": "tap",
+      "midi": 73
+    },
+    {
+      "t": 12545,
+      "lane": 3,
+      "dur": 0,
+      "type": "tap",
+      "midi": 76
+    },
+    {
+      "t": 12818,
+      "lane": 4,
+      "dur": 0,
+      "type": "tap",
+      "midi": 79
+    },
+    {
+      "t": 13091,
+      "lane": 3,
+      "dur": 0,
+      "type": "tap",
+      "midi": 76
+    },
+    {
+      "t": 13364,
+      "lane": 2,
+      "dur": 0,
+      "type": "tap",
+      "midi": 73
+    },
+    {
+      "t": 13636,
+      "lane": 3,
+      "dur": 0,
+      "type": "tap",
+      "midi": 76
+    },
+    {
+      "t": 13909,
+      "lane": 4,
+      "dur": 0,
+      "type": "tap",
+      "midi": 79
+    },
+    {
+      "t": 14182,
+      "lane": 3,
+      "dur": 0,
+      "type": "tap",
+      "midi": 76
+    },
+    {
+      "t": 14455,
+      "lane": 2,
+      "dur": 0,
+      "type": "tap",
+      "midi": 73
+    },
+    {
+      "t": 14727,
+      "lane": 3,
+      "dur": 0,
+      "type": "tap",
+      "midi": 76
+    },
+    {
+      "t": 15000,
+      "lane": 4,
+      "dur": 0,
+      "type": "tap",
+      "midi": 79
+    },
+    {
+      "t": 15273,
+      "lane": 3,
+      "dur": 0,
+      "type": "tap",
+      "midi": 76
+    },
+    {
+      "t": 15545,
+      "lane": 2,
+      "dur": 0,
+      "type": "tap",
+      "midi": 73
+    },
+    {
+      "t": 15818,
+      "lane": 3,
+      "dur": 0,
+      "type": "tap",
+      "midi": 76
+    },
+    {
+      "t": 16091,
+      "lane": 4,
+      "dur": 0,
+      "type": "tap",
+      "midi": 79
+    },
+    {
+      "t": 16364,
+      "lane": 3,
+      "dur": 0,
+      "type": "tap",
+      "midi": 76
+    },
+    {
+      "t": 16636,
+      "lane": 2,
+      "dur": 0,
+      "type": "tap",
+      "midi": 73
+    },
+    {
+      "t": 16909,
+      "lane": 3,
+      "dur": 0,
+      "type": "tap",
+      "midi": 76
+    },
+    {
+      "t": 17182,
+      "lane": 4,
+      "dur": 0,
+      "type": "tap",
+      "midi": 79
+    }
+  ]
+}

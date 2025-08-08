@@ -1,0 +1,456 @@
+{
+  "title": "In the Hall of the Mountain King",
+  "bpm": 124,
+  "timeSignature": "4/4",
+  "offsetMs": 0,
+  "notes": [
+    {
+      "t": 0,
+      "lane": 2,
+      "dur": 0,
+      "type": "tap",
+      "midi": 67
+    },
+    {
+      "t": 242,
+      "lane": 3,
+      "dur": 0,
+      "type": "tap",
+      "midi": 69
+    },
+    {
+      "t": 484,
+      "lane": 2,
+      "dur": 0,
+      "type": "tap",
+      "midi": 67
+    },
+    {
+      "t": 726,
+      "lane": 1,
+      "dur": 0,
+      "type": "tap",
+      "midi": 65
+    },
+    {
+      "t": 968,
+      "lane": 2,
+      "dur": 0,
+      "type": "tap",
+      "midi": 67
+    },
+    {
+      "t": 1210,
+      "lane": 3,
+      "dur": 0,
+      "type": "tap",
+      "midi": 69
+    },
+    {
+      "t": 1452,
+      "lane": 4,
+      "dur": 0,
+      "type": "tap",
+      "midi": 71
+    },
+    {
+      "t": 1694,
+      "lane": 3,
+      "dur": 0,
+      "type": "tap",
+      "midi": 69
+    },
+    {
+      "t": 1935,
+      "lane": 2,
+      "dur": 0,
+      "type": "tap",
+      "midi": 67
+    },
+    {
+      "t": 2177,
+      "lane": 3,
+      "dur": 0,
+      "type": "tap",
+      "midi": 69
+    },
+    {
+      "t": 2419,
+      "lane": 2,
+      "dur": 0,
+      "type": "tap",
+      "midi": 67
+    },
+    {
+      "t": 2661,
+      "lane": 1,
+      "dur": 0,
+      "type": "tap",
+      "midi": 65
+    },
+    {
+      "t": 2903,
+      "lane": 2,
+      "dur": 0,
+      "type": "tap",
+      "midi": 67
+    },
+    {
+      "t": 3145,
+      "lane": 3,
+      "dur": 0,
+      "type": "tap",
+      "midi": 69
+    },
+    {
+      "t": 3387,
+      "lane": 4,
+      "dur": 0,
+      "type": "tap",
+      "midi": 71
+    },
+    {
+      "t": 3629,
+      "lane": 3,
+      "dur": 0,
+      "type": "tap",
+      "midi": 69
+    },
+    {
+      "t": 3871,
+      "lane": 2,
+      "dur": 0,
+      "type": "tap",
+      "midi": 67
+    },
+    {
+      "t": 4113,
+      "lane": 3,
+      "dur": 0,
+      "type": "tap",
+      "midi": 69
+    },
+    {
+      "t": 4355,
+      "lane": 2,
+      "dur": 0,
+      "type": "tap",
+      "midi": 67
+    },
+    {
+      "t": 4597,
+      "lane": 1,
+      "dur": 0,
+      "type": "tap",
+      "midi": 65
+    },
+    {
+      "t": 4839,
+      "lane": 2,
+      "dur": 0,
+      "type": "tap",
+      "midi": 67
+    },
+    {
+      "t": 5081,
+      "lane": 3,
+      "dur": 0,
+      "type": "tap",
+      "midi": 69
+    },
+    {
+      "t": 5323,
+      "lane": 4,
+      "dur": 0,
+      "type": "tap",
+      "midi": 71
+    },
+    {
+      "t": 5565,
+      "lane": 3,
+      "dur": 0,
+      "type": "tap",
+      "midi": 69
+    },
+    {
+      "t": 5806,
+      "lane": 2,
+      "dur": 0,
+      "type": "tap",
+      "midi": 67
+    },
+    {
+      "t": 6048,
+      "lane": 3,
+      "dur": 0,
+      "type": "tap",
+      "midi": 69
+    },
+    {
+      "t": 6290,
+      "lane": 2,
+      "dur": 0,
+      "type": "tap",
+      "midi": 67
+    },
+    {
+      "t": 6532,
+      "lane": 1,
+      "dur": 0,
+      "type": "tap",
+      "midi": 65
+    },
+    {
+      "t": 6774,
+      "lane": 2,
+      "dur": 0,
+      "type": "tap",
+      "midi": 67
+    },
+    {
+      "t": 7016,
+      "lane": 3,
+      "dur": 0,
+      "type": "tap",
+      "midi": 69
+    },
+    {
+      "t": 7258,
+      "lane": 4,
+      "dur": 0,
+      "type": "tap",
+      "midi": 71
+    },
+    {
+      "t": 7500,
+      "lane": 3,
+      "dur": 0,
+      "type": "tap",
+      "midi": 69
+    },
+    {
+      "t": 7742,
+      "lane": 2,
+      "dur": 0,
+      "type": "tap",
+      "midi": 67
+    },
+    {
+      "t": 7984,
+      "lane": 3,
+      "dur": 0,
+      "type": "tap",
+      "midi": 69
+    },
+    {
+      "t": 8226,
+      "lane": 2,
+      "dur": 0,
+      "type": "tap",
+      "midi": 67
+    },
+    {
+      "t": 8468,
+      "lane": 1,
+      "dur": 0,
+      "type": "tap",
+      "midi": 65
+    },
+    {
+      "t": 8710,
+      "lane": 2,
+      "dur": 0,
+      "type": "tap",
+      "midi": 67
+    },
+    {
+      "t": 8952,
+      "lane": 3,
+      "dur": 0,
+      "type": "tap",
+      "midi": 69
+    },
+    {
+      "t": 9194,
+      "lane": 4,
+      "dur": 0,
+      "type": "tap",
+      "midi": 71
+    },
+    {
+      "t": 9435,
+      "lane": 3,
+      "dur": 0,
+      "type": "tap",
+      "midi": 69
+    },
+    {
+      "t": 9677,
+      "lane": 2,
+      "dur": 0,
+      "type": "tap",
+      "midi": 67
+    },
+    {
+      "t": 9919,
+      "lane": 3,
+      "dur": 0,
+      "type": "tap",
+      "midi": 69
+    },
+    {
+      "t": 10161,
+      "lane": 2,
+      "dur": 0,
+      "type": "tap",
+      "midi": 67
+    },
+    {
+      "t": 10403,
+      "lane": 1,
+      "dur": 0,
+      "type": "tap",
+      "midi": 65
+    },
+    {
+      "t": 10645,
+      "lane": 2,
+      "dur": 0,
+      "type": "tap",
+      "midi": 67
+    },
+    {
+      "t": 10887,
+      "lane": 3,
+      "dur": 0,
+      "type": "tap",
+      "midi": 69
+    },
+    {
+      "t": 11129,
+      "lane": 4,
+      "dur": 0,
+      "type": "tap",
+      "midi": 71
+    },
+    {
+      "t": 11371,
+      "lane": 3,
+      "dur": 0,
+      "type": "tap",
+      "midi": 69
+    },
+    {
+      "t": 11613,
+      "lane": 2,
+      "dur": 0,
+      "type": "tap",
+      "midi": 67
+    },
+    {
+      "t": 11855,
+      "lane": 3,
+      "dur": 0,
+      "type": "tap",
+      "midi": 69
+    },
+    {
+      "t": 12097,
+      "lane": 2,
+      "dur": 0,
+      "type": "tap",
+      "midi": 67
+    },
+    {
+      "t": 12339,
+      "lane": 1,
+      "dur": 0,
+      "type": "tap",
+      "midi": 65
+    },
+    {
+      "t": 12581,
+      "lane": 2,
+      "dur": 0,
+      "type": "tap",
+      "midi": 67
+    },
+    {
+      "t": 12823,
+      "lane": 3,
+      "dur": 0,
+      "type": "tap",
+      "midi": 69
+    },
+    {
+      "t": 13065,
+      "lane": 4,
+      "dur": 0,
+      "type": "tap",
+      "midi": 71
+    },
+    {
+      "t": 13306,
+      "lane": 3,
+      "dur": 0,
+      "type": "tap",
+      "midi": 69
+    },
+    {
+      "t": 13548,
+      "lane": 2,
+      "dur": 0,
+      "type": "tap",
+      "midi": 67
+    },
+    {
+      "t": 13790,
+      "lane": 3,
+      "dur": 0,
+      "type": "tap",
+      "midi": 69
+    },
+    {
+      "t": 14032,
+      "lane": 2,
+      "dur": 0,
+      "type": "tap",
+      "midi": 67
+    },
+    {
+      "t": 14274,
+      "lane": 1,
+      "dur": 0,
+      "type": "tap",
+      "midi": 65
+    },
+    {
+      "t": 14516,
+      "lane": 2,
+      "dur": 0,
+      "type": "tap",
+      "midi": 67
+    },
+    {
+      "t": 14758,
+      "lane": 3,
+      "dur": 0,
+      "type": "tap",
+      "midi": 69
+    },
+    {
+      "t": 15000,
+      "lane": 4,
+      "dur": 0,
+      "type": "tap",
+      "midi": 71
+    },
+    {
+      "t": 15242,
+      "lane": 3,
+      "dur": 0,
+      "type": "tap",
+      "midi": 69
+    }
+  ]
+}

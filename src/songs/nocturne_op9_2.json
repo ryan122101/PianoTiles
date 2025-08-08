@@ -1,0 +1,456 @@
+{
+  "title": "Nocturne Op.9 No.2",
+  "bpm": 78,
+  "timeSignature": "4/4",
+  "offsetMs": 0,
+  "notes": [
+    {
+      "t": 0,
+      "lane": 2,
+      "dur": 0,
+      "type": "tap",
+      "midi": 66
+    },
+    {
+      "t": 385,
+      "lane": 3,
+      "dur": 0,
+      "type": "tap",
+      "midi": 68
+    },
+    {
+      "t": 769,
+      "lane": 4,
+      "dur": 0,
+      "type": "tap",
+      "midi": 69
+    },
+    {
+      "t": 1154,
+      "lane": 3,
+      "dur": 0,
+      "type": "tap",
+      "midi": 68
+    },
+    {
+      "t": 1538,
+      "lane": 2,
+      "dur": 0,
+      "type": "tap",
+      "midi": 66
+    },
+    {
+      "t": 1923,
+      "lane": 3,
+      "dur": 0,
+      "type": "tap",
+      "midi": 68
+    },
+    {
+      "t": 2308,
+      "lane": 4,
+      "dur": 0,
+      "type": "tap",
+      "midi": 69
+    },
+    {
+      "t": 2692,
+      "lane": 3,
+      "dur": 0,
+      "type": "tap",
+      "midi": 68
+    },
+    {
+      "t": 3077,
+      "lane": 2,
+      "dur": 0,
+      "type": "tap",
+      "midi": 66
+    },
+    {
+      "t": 3462,
+      "lane": 3,
+      "dur": 0,
+      "type": "tap",
+      "midi": 68
+    },
+    {
+      "t": 3846,
+      "lane": 4,
+      "dur": 0,
+      "type": "tap",
+      "midi": 69
+    },
+    {
+      "t": 4231,
+      "lane": 3,
+      "dur": 0,
+      "type": "tap",
+      "midi": 68
+    },
+    {
+      "t": 4615,
+      "lane": 2,
+      "dur": 0,
+      "type": "tap",
+      "midi": 66
+    },
+    {
+      "t": 5000,
+      "lane": 3,
+      "dur": 0,
+      "type": "tap",
+      "midi": 68
+    },
+    {
+      "t": 5385,
+      "lane": 4,
+      "dur": 0,
+      "type": "tap",
+      "midi": 69
+    },
+    {
+      "t": 5769,
+      "lane": 3,
+      "dur": 0,
+      "type": "tap",
+      "midi": 68
+    },
+    {
+      "t": 6154,
+      "lane": 2,
+      "dur": 0,
+      "type": "tap",
+      "midi": 66
+    },
+    {
+      "t": 6538,
+      "lane": 3,
+      "dur": 0,
+      "type": "tap",
+      "midi": 68
+    },
+    {
+      "t": 6923,
+      "lane": 4,
+      "dur": 0,
+      "type": "tap",
+      "midi": 69
+    },
+    {
+      "t": 7308,
+      "lane": 3,
+      "dur": 0,
+      "type": "tap",
+      "midi": 68
+    },
+    {
+      "t": 7692,
+      "lane": 2,
+      "dur": 0,
+      "type": "tap",
+      "midi": 66
+    },
+    {
+      "t": 8077,
+      "lane": 3,
+      "dur": 0,
+      "type": "tap",
+      "midi": 68
+    },
+    {
+      "t": 8462,
+      "lane": 4,
+      "dur": 0,
+      "type": "tap",
+      "midi": 69
+    },
+    {
+      "t": 8846,
+      "lane": 3,
+      "dur": 0,
+      "type": "tap",
+      "midi": 68
+    },
+    {
+      "t": 9231,
+      "lane": 2,
+      "dur": 0,
+      "type": "tap",
+      "midi": 66
+    },
+    {
+      "t": 9615,
+      "lane": 3,
+      "dur": 0,
+      "type": "tap",
+      "midi": 68
+    },
+    {
+      "t": 10000,
+      "lane": 4,
+      "dur": 0,
+      "type": "tap",
+      "midi": 69
+    },
+    {
+      "t": 10385,
+      "lane": 3,
+      "dur": 0,
+      "type": "tap",
+      "midi": 68
+    },
+    {
+      "t": 10769,
+      "lane": 2,
+      "dur": 0,
+      "type": "tap",
+      "midi": 66
+    },
+    {
+      "t": 11154,
+      "lane": 3,
+      "dur": 0,
+      "type": "tap",
+      "midi": 68
+    },
+    {
+      "t": 11538,
+      "lane": 4,
+      "dur": 0,
+      "type": "tap",
+      "midi": 69
+    },
+    {
+      "t": 11923,
+      "lane": 3,
+      "dur": 0,
+      "type": "tap",
+      "midi": 68
+    },
+    {
+      "t": 12308,
+      "lane": 2,
+      "dur": 0,
+      "type": "tap",
+      "midi": 66
+    },
+    {
+      "t": 12692,
+      "lane": 3,
+      "dur": 0,
+      "type": "tap",
+      "midi": 68
+    },
+    {
+      "t": 13077,
+      "lane": 4,
+      "dur": 0,
+      "type": "tap",
+      "midi": 69
+    },
+    {
+      "t": 13462,
+      "lane": 3,
+      "dur": 0,
+      "type": "tap",
+      "midi": 68
+    },
+    {
+      "t": 13846,
+      "lane": 2,
+      "dur": 0,
+      "type": "tap",
+      "midi": 66
+    },
+    {
+      "t": 14231,
+      "lane": 3,
+      "dur": 0,
+      "type": "tap",
+      "midi": 68
+    },
+    {
+      "t": 14615,
+      "lane": 4,
+      "dur": 0,
+      "type": "tap",
+      "midi": 69
+    },
+    {
+      "t": 15000,
+      "lane": 3,
+      "dur": 0,
+      "type": "tap",
+      "midi": 68
+    },
+    {
+      "t": 15385,
+      "lane": 2,
+      "dur": 0,
+      "type": "tap",
+      "midi": 66
+    },
+    {
+      "t": 15769,
+      "lane": 3,
+      "dur": 0,
+      "type": "tap",
+      "midi": 68
+    },
+    {
+      "t": 16154,
+      "lane": 4,
+      "dur": 0,
+      "type": "tap",
+      "midi": 69
+    },
+    {
+      "t": 16538,
+      "lane": 3,
+      "dur": 0,
+      "type": "tap",
+      "midi": 68
+    },
+    {
+      "t": 16923,
+      "lane": 2,
+      "dur": 0,
+      "type": "tap",
+      "midi": 66
+    },
+    {
+      "t": 17308,
+      "lane": 3,
+      "dur": 0,
+      "type": "tap",
+      "midi": 68
+    },
+    {
+      "t": 17692,
+      "lane": 4,
+      "dur": 0,
+      "type": "tap",
+      "midi": 69
+    },
+    {
+      "t": 18077,
+      "lane": 3,
+      "dur": 0,
+      "type": "tap",
+      "midi": 68
+    },
+    {
+      "t": 18462,
+      "lane": 2,
+      "dur": 0,
+      "type": "tap",
+      "midi": 66
+    },
+    {
+      "t": 18846,
+      "lane": 3,
+      "dur": 0,
+      "type": "tap",
+      "midi": 68
+    },
+    {
+      "t": 19231,
+      "lane": 4,
+      "dur": 0,
+      "type": "tap",
+      "midi": 69
+    },
+    {
+      "t": 19615,
+      "lane": 3,
+      "dur": 0,
+      "type": "tap",
+      "midi": 68
+    },
+    {
+      "t": 20000,
+      "lane": 2,
+      "dur": 0,
+      "type": "tap",
+      "midi": 66
+    },
+    {
+      "t": 20385,
+      "lane": 3,
+      "dur": 0,
+      "type": "tap",
+      "midi": 68
+    },
+    {
+      "t": 20769,
+      "lane": 4,
+      "dur": 0,
+      "type": "tap",
+      "midi": 69
+    },
+    {
+      "t": 21154,
+      "lane": 3,
+      "dur": 0,
+      "type": "tap",
+      "midi": 68
+    },
+    {
+      "t": 21538,
+      "lane": 2,
+      "dur": 0,
+      "type": "tap",
+      "midi": 66
+    },
+    {
+      "t": 21923,
+      "lane": 3,
+      "dur": 0,
+      "type": "tap",
+      "midi": 68
+    },
+    {
+      "t": 22308,
+      "lane": 4,
+      "dur": 0,
+      "type": "tap",
+      "midi": 69
+    },
+    {
+      "t": 22692,
+      "lane": 3,
+      "dur": 0,
+      "type": "tap",
+      "midi": 68
+    },
+    {
+      "t": 23077,
+      "lane": 2,
+      "dur": 0,
+      "type": "tap",
+      "midi": 66
+    },
+    {
+      "t": 23462,
+      "lane": 3,
+      "dur": 0,
+      "type": "tap",
+      "midi": 68
+    },
+    {
+      "t": 23846,
+      "lane": 4,
+      "dur": 0,
+      "type": "tap",
+      "midi": 69
+    },
+    {
+      "t": 24231,
+      "lane": 3,
+      "dur": 0,
+      "type": "tap",
+      "midi": 68
+    }
+  ]
+}

@@ -1,0 +1,93 @@
+
+:root {
+  --bg: #0b0f12;
+  --glass: rgba(255, 255, 255, 0.06);
+  --glass-2: rgba(255, 255, 255, 0.12);
+  --accent: #7dd3fc;
+  --accent-2: #a78bfa;
+  --perfect: #90EE90;
+  --great: #9AC8FF;
+  --good: #FFD27A;
+  --miss: #FF6B6B;
+}
+
+html, body {
+  margin: 0;
+  padding: 0;
+  background: var(--bg);
+  color: #e6edf3;
+  height: 100%;
+  overflow: hidden;
+  -webkit-touch-callout: none;
+  -webkit-user-select: none;
+          user-select: none;
+}
+
+#game {
+  position: fixed;
+  inset: 0;
+  width: 100vw;
+  height: 100vh;
+  display: block;
+}
+
+.overlay {
+  position: fixed;
+  inset: 0;
+  pointer-events: none;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-family: ui-sans-serif, system-ui, -apple-system, Segoe UI, Roboto;
+}
+
+.glass {
+  background: var(--glass);
+  backdrop-filter: blur(16px) saturate(1.2);
+  -webkit-backdrop-filter: blur(16px) saturate(1.2);
+  border: 1px solid var(--glass-2);
+  border-radius: 16px;
+  padding: 16px 20px;
+  box-shadow: 0 10px 30px rgba(0,0,0,0.35);
+}
+
+.btn {
+  padding: 12px 16px;
+  border-radius: 12px;
+  border: 1px solid var(--glass-2);
+  background: var(--glass);
+  color: #fff;
+  font-weight: 600;
+  display: inline-flex;
+  gap: 8px;
+  align-items: center;
+  margin: 6px 0;
+}
+.btn:active { transform: translateY(1px); }
+.row { display: flex; gap: 10px; flex-wrap: wrap; }
+.title { font-size: 24px; font-weight: 800; letter-spacing: 0.4px; margin-bottom: 8px; }
+.subtitle { opacity: 0.75; font-size: 13px; margin-bottom: 12px; }
+.chip { font-size: 12px; opacity: 0.8; padding: 4px 8px; border-radius: 999px; background: var(--glass); border:1px solid var(--glass-2); }
+.list { display: grid; grid-template-columns: 1fr; gap: 10px; width: min(520px, 86vw); }
+.card { display:flex; justify-content: space-between; align-items:center; }
+.score { font-size: 40px; font-weight: 900; letter-spacing: 1px; }
+.center { display:flex; flex-direction:column; align-items:center; gap:12px; }
+
+.btn.active{outline:2px solid var(--accent)}
+
+
+/* THEMES */
+:root.theme-aurora {
+  --bg: #09121a;
+  --glass: rgba(128, 212, 255, 0.06);
+  --glass-2: rgba(128, 212, 255, 0.18);
+  --accent: #7dd3fc;
+  --accent-2: #34d399;
+}
+:root.theme-obsidian {
+  --bg: #050608;
+  --glass: rgba(255,255,255,0.05);
+  --glass-2: rgba(255,255,255,0.14);
+  --accent: #a78bfa;
+  --accent-2: #f472b6;
+}
